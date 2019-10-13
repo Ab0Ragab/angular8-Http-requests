@@ -1,0 +1,23 @@
+ul{
+    margin-top: 25px;
+    text-align: center;
+}
+
+ul li {
+    margin-bottom: 15px;
+    border: 1px solid black;
+    border-radius: 10px;
+    color: blueviolet;
+}
+.alert
+{
+    margin-top: 10px;
+}
+.fa:hover{
+  cursor: pointer;
+  color: red;
+}
+.btn
+{
+    margin-bottom: 15px;
+}
